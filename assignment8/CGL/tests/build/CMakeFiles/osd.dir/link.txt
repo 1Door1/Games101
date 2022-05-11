@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/osd.dir/osd.cpp.o  -o osd -lCGL -lglfw -lglew 

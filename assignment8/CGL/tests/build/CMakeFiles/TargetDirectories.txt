@@ -1,0 +1,7 @@
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/install/strip.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/osd.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/list_install_components.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/install/local.dir
+/home/cs18/Desktop/assignment8/CGL/tests/build/CMakeFiles/install.dir
